@@ -97,7 +97,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>JOMACS Releases Nexus Repository</name>
-	      <url>http://localhost:8081/repository/gtb-app-release/</url>
+	      <url>http://44.201.194.41:8081/repository/jomacs-webapp/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
